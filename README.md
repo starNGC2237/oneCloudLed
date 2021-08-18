@@ -5,21 +5,21 @@ onecloud玩客云刷armbian后灯光控制
 来源恩山论坛
 留存
 
-#### 软件架构
-软件架构说明
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  下载解压
+2.  上传玩客云
+3.  编写代码测试
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  sudo bash flash.sh 进行测试
+2.  ledon 颜色
+3.  ledoff 颜色
+注：颜色：blue、green、red
+注：颜色可以组合
 
 #### 参与贡献
 
