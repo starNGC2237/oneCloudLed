@@ -3,6 +3,7 @@
 #### 介绍
 onecloud玩客云刷armbian后灯光控制
 来源恩山论坛
+https://www.right.com.cn/forum/thread-2881296-2-1.html
 留存
 
 
